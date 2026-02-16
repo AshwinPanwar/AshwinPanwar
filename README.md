@@ -34,5 +34,5 @@ Physics + 3D interactions
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: [(https://www.linkedin.com/in/ashwin-panwar-a3b812282/)]
-- Email: [ashwinpanwar20614@gmail.com]
+- LinkedIn: https://www.linkedin.com/in/ashwin-panwar-a3b812282/
+- Email: ashwinpanwar20614@gmail.com
