@@ -2,7 +2,10 @@
 
 🎓 Final Year B.Tech Student  
 💻 Web & 3D Developer | Three.js Enthusiast  
-🚀 Passionate about building interactive projects & learning AI  
+🚀 Passionate Full Stack Developer (MERN) and building interactive projects & learning AI , currently working as a
+Full Stack Web Developer Intern at Kalvig where I’m also gaining hands-on training in Web & 3D Developer .
+
+ about  
 
 ---
 
