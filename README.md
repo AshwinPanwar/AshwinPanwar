@@ -1,15 +1,18 @@
 <h1 align="center">Hi 👋, I'm Ashwin Panwar</h1>
-<h3 align="center">Full Stack Developer | 3D Web Developer | AI Enthusiast</h3>
+
+<h3 align="center">
+AI Engineer Intern | Full Stack Developer | 3D Web Developer
+</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ashwin-panwar-a3b812282/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:ashwinpanwar20614@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/AshwinPanwar">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -17,31 +20,37 @@
 
 # 👨‍💻 About Me
 
-🎓 B.Tech Graduate in Computer Science Engineering (AI & ML)
+🎓 B.Tech Graduate in **Computer Science Engineering (AI & ML)**
 
-💼 Full Stack Developer Intern at **Kalvig Technologies**
+🤖 AI Engineer Intern at **Cloud Science Labs**
 
-🌍 Passionate about building modern web applications, immersive 3D experiences, and AI-powered solutions.
+💻 Former Full Stack Developer Intern at **Kalvig Technologies**
 
-🚀 Currently learning
+🌍 Interested in building **AI-powered applications, modern full-stack systems, and immersive 3D web experiences**.
 
-- AI Engineering
-- LLMs
-- RAG (Retrieval-Augmented Generation)
+🚀 Currently learning and exploring:
+
+- Generative AI
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
 - LangChain
 - Vector Databases
+- AI Agents
 
-💬 Ask me about
+💬 Ask me about:
 
+- Python
 - JavaScript
 - TypeScript
-- React
+- React.js
+- Node.js
+- Express.js
 - Three.js
 - MERN Stack
 - Firebase
-- Node.js
+- REST APIs
 
-📫 Reach me at
+📫 Reach me at:
 
 **ashwinpanwar20614@gmail.com**
 
@@ -52,9 +61,10 @@
 ## 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css" alt="Programming Languages" />
 </p>
 
+- Python
 - JavaScript (ES6+)
 - TypeScript
 - HTML5
@@ -62,27 +72,24 @@
 
 ---
 
-## 🎨 Frontend
+## 🎨 Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=react,threejs,tailwind,vite" alt="Frontend Technologies" />
 </p>
 
-- JavaScript
 - React.js
 - React Three Fiber
 - Three.js
 - Tailwind CSS
-- HTML5
-- CSS3
 - Vite
 
 ---
 
-## ⚙️ Backend
+## ⚙️ Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Technologies" />
 </p>
 
 - Node.js
@@ -91,10 +98,10 @@
 
 ---
 
-## 🗄️ Database
+## 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase" alt="Databases" />
 </p>
 
 - MongoDB
@@ -102,10 +109,10 @@
 
 ---
 
-## 🛠 Tools & Platforms
+## 🛠️ Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,blender,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,blender,vercel" alt="Tools and Platforms" />
 </p>
 
 - Git
@@ -117,13 +124,17 @@
 
 ---
 
-## 🤖 Currently Learning
+# 🤖 Currently Learning
 
-- AI Engineering
-- LLMs
+I'm currently expanding my knowledge in AI Engineering and Generative AI technologies:
+
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
 - LangChain
-- RAG
 - Vector Databases
+- AI Agents
+- Prompt Engineering
+- Generative AI
 
 ---
 
@@ -131,9 +142,9 @@
 
 ## 🌕 Lunar Research Outpost
 
-Interactive real-time 3D environment built using Three.js.
+An interactive real-time 3D environment built using **Three.js and TypeScript**.
 
-### Features
+### ✨ Features
 
 - Character Controller
 - Raycasting
@@ -141,47 +152,53 @@ Interactive real-time 3D environment built using Three.js.
 - Dynamic Lighting
 - Level of Detail (LOD)
 - Interactive Objects
+- Real-time 3D Rendering
 
-**Tech Stack**
+### 🛠️ Tech Stack
 
-Three.js • TypeScript • WebGL • React
+**Three.js • TypeScript • WebGL • React**
+
+🔗 [View Repository](https://github.com/AshwinPanwar/lunar_research_outpost)
+
+🌐 [Live Demo](https://lunar-research-outpost.vercel.app/)
 
 ---
 
 ## 📚 Personal Knowledge Base
 
-AI-powered personal knowledge management application capable of organizing and retrieving documents intelligently.
+A full-stack personal knowledge management application designed for organizing, searching, and managing information.
 
-**Tech Stack**
+### 🛠️ Tech Stack
 
-React • Node.js • Express • MongoDB • AI
+**React • Node.js • Express.js • MongoDB**
 
 ---
 
 ## 🍽️ AI Restaurant Finder
 
-Restaurant recommendation platform using AI.
+An AI-powered restaurant recommendation application designed to help users discover restaurants based on their preferences.
 
-**Tech Stack**
+### 🛠️ Tech Stack
 
-React • Node.js • Express • AI APIs
+**React • Node.js • Express.js • AI APIs**
 
 ---
 
 ## ✅ ToDo Flow
 
-Modern task management application with authentication and Firebase.
+A modern task management application with authentication and cloud-based data storage.
 
-### Features
+### ✨ Features
 
-- Authentication
+- User Authentication
 - CRUD Operations
+- Task Management
 - Responsive UI
-- Cloud Storage
+- Firebase Integration
 
-**Tech Stack**
+### 🛠️ Tech Stack
 
-React • Firebase • Tailwind CSS
+**React • Firebase • Tailwind CSS**
 
 ---
 
@@ -189,26 +206,45 @@ React • Firebase • Tailwind CSS
 
 - Cisco — Introduction to Cybersecurity
 - National Cyber Crime Training Certificate (MHA)
-- HackerRank SQL (Basic)
+- HackerRank — SQL (Basic)
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AshwinPanwar&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinPanwar&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=AshwinPanwar&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Ashwin Panwar's GitHub Stats"
+  />
+  
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinPanwar&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Ashwin Panwar's Most Used Languages"
+  />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=AshwinPanwar&theme=tokyonight&hide_border=true"/>
+  <img
+    src="https://streak-stats.demolab.com?user=AshwinPanwar&theme=tokyonight&hide_border=true"
+    alt="Ashwin Panwar's GitHub Streak"
+  />
 </p>
 
 ---
 
 # 📈 GitHub Activity Graph
 
-[![Ashwin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AshwinPanwar&theme=tokyo-night)](https://github.com/YOUR_GITHUB_USERNAME)
+<p align="center">
+  <a href="https://github.com/AshwinPanwar">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=AshwinPanwar&theme=tokyo-night"
+      alt="Ashwin Panwar's GitHub Activity Graph"
+    />
+  </a>
+</p>
 
 ---
 
@@ -216,17 +252,17 @@ React • Firebase • Tailwind CSS
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/ashwin-panwar-a3b812282/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+  <a href="https://www.linkedin.com/in/ashwin-panwar-a3b812282/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
 
-<a href="mailto:ashwinpanwar20614@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
+  <a href="mailto:ashwinpanwar20614@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
 
-<a href="https://github.com/AshwinPanwar">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
+  <a href="https://github.com/AshwinPanwar">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
 
 </p>
 
@@ -238,4 +274,6 @@ React • Firebase • Tailwind CSS
 
 ---
 
+<p align="center">
 ⭐ Thanks for visiting my profile! If you like my work, consider giving a ⭐ to my repositories.
+</p>
